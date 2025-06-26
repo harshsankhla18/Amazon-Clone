@@ -11,7 +11,7 @@ A front-end clone of the Amazon homepage built using only **HTML** and **CSS**. 
 - 🧱 No JavaScript or frameworks used
 
 ## ![image](https://github.com/user-attachments/assets/f3daec64-5804-4045-8b7d-0d0c6799afe1)
-##![image](https://github.com/user-attachments/assets/20b7c76b-3959-40ee-9e9b-41d04905478d)
+## ![image](https://github.com/user-attachments/assets/20b7c76b-3959-40ee-9e9b-41d04905478d)
 
 
 ## 📁 Folder Structure
