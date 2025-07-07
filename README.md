@@ -10,7 +10,7 @@ A front-end clone of the Amazon homepage built using only **HTML** and **CSS**. 
 - ✅ **HTML5** – Semantic structure
 - 🎨 **CSS3** – Layout, Flexbox, Grid, Hover effects
 - 🧱 No JavaScript or frameworks used
-Link:https://sunny-ganache-fbbb53.netlify.app/
+Link:[amazon-clone18.netlify.app](https://amazon-clone18.netlify.app/)
 
 
 ## ![image](https://github.com/user-attachments/assets/f3daec64-5804-4045-8b7d-0d0c6799afe1)
