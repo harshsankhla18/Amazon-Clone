@@ -1,5 +1,6 @@
 # 🛒 Amazon Clone (HTML + CSS Only)
 
+
 A front-end clone of the Amazon homepage built using only **HTML** and **CSS**. This project focuses on recreating the layout, design, and responsiveness of the Amazon India website.
 
 
@@ -9,6 +10,8 @@ A front-end clone of the Amazon homepage built using only **HTML** and **CSS**. 
 - ✅ **HTML5** – Semantic structure
 - 🎨 **CSS3** – Layout, Flexbox, Grid, Hover effects
 - 🧱 No JavaScript or frameworks used
+Link:https://sunny-ganache-fbbb53.netlify.app/
+
 
 ## ![image](https://github.com/user-attachments/assets/f3daec64-5804-4045-8b7d-0d0c6799afe1)
 ## ![image](https://github.com/user-attachments/assets/20b7c76b-3959-40ee-9e9b-41d04905478d)
